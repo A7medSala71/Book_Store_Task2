@@ -62,6 +62,13 @@ Demo Book can not be delivered of bought
 - **Email:** a7med@gmail.com (demo)
 - **Project Date:** July 2025
 
+## 🖼️ Screenshot
+
+Below is a screenshot from the running app (console output):
+
+![Screenshot of Bookstore App](Screenshot.png)
+
+
 ## 📝 Notes
 
 - Code uses OOP principles: abstraction, inheritance, polymorphism.
